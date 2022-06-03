@@ -3,6 +3,7 @@
 	<name>SDAIPokemon</name>
 	<comment></comment>
 	<projects>
+		<project>SDAICore</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
